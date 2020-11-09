@@ -1,0 +1,12 @@
+{
+    "name": "dennisvandenberg/learning-bundle-2",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Dennis van den Berg",
+            "email": "dennis.vandenberg@nepgroup.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
